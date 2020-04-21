@@ -1,7 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .lightgreen {
     background-color: #ACFA58;
 }
 
-.green {
+.greenCobrinha {
     background-color: #088A08;
+}
+
+.redFruta {
+    background-color: #DF0101;
 }
