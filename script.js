@@ -1,6 +1,6 @@
 let canvas = document.getElementById("snake");
 let context = canvas.getContext("2d");
-let box = 32;
+let box = 32; /*tamanho do pixel dentro do canvas*/
 let snake = [];
 snake[0] = {
     x: 8 * box,
