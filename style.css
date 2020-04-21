@@ -1,5 +1,12 @@
 body {
+    height: 95vh;
+    width: 95vw;
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center; /*horizontalmente*/
+    align-items: center; /*verticalmente*/
+    flex-direction: column;
+    color: #088A08;
 }
 .lightgreen {
     background-color: #ACFA58;
