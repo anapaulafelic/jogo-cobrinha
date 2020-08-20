@@ -8,8 +8,7 @@ Desafio Javascript - Digital Innovation One
 - css
 
 # Grau de dificuldade
-- Para mim que sou iniciante conheci algumas funções e conceitos novos.
-Não achei tão fácil, muta coisa ainda é novidade para mim. :)
+- Para mim que sou iniciante, conheci algumas funções e conceitos novos, não achei tão fácil, muita coisa ainda foi novidade para mim. :)
 
 # O que foi apresentado de novidades
 Exemplo: 
